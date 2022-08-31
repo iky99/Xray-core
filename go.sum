@@ -1,3 +1,5 @@
+github.com/djoeni/websocket v0.6.9 h1:XiUTLarr3rkM4VJxaBgviVAPcUHjOsJGJuMT0zwnXnw=
+github.com/djoeni/websocket v0.6.9/go.mod h1:GXiVgVGMOQ4iQZokBoCO1hm/vYiaN05U3avSq9cqK0U=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.31.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
