@@ -28,7 +28,7 @@ jobs:
       matrix:
         # Include amd64 on all platforms.
         goos: [linux]
-        goarch: [686]
+        goarch: [386]
         #include:
           # ARM64
           #- goos: linux
