@@ -18,7 +18,8 @@ on:
       - "**/*.go"
       - "go.mod"
       - "go.sum"
-      - ".github/workflows/*.yml"
+      - ".github/workflows/release.yml"
+      #- ".github/workflows/*.yml"
 jobs:
   build:
     permissions:
@@ -27,7 +28,7 @@ jobs:
       matrix:
         # Include amd64 on all platforms.
         goos: [linux]
-        goarch: [i686]
+        goarch: [686]
         #include:
           # ARM64
           #- goos: linux
